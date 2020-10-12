@@ -1,70 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>D</title>
-    <link>http://54.65.79.168/</link>
-    <description>Recent content on D</description>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2020 10:40:04 +0000</lastBuildDate>
     
-	<atom:link href="http://54.65.79.168/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Sample Blog 4</title>
-      <link>http://54.65.79.168/2020/10/02/sample-post4/</link>
-      <pubDate>Fri, 02 Oct 2020 10:40:04 +0000</pubDate>
-      
-      <guid>http://54.65.79.168/2020/10/02/sample-post4/</guid>
-      <description>sample text sample text.</description>
-    </item>
-    
-    <item>
-      <title>Sample Blog 3</title>
-      <link>http://54.65.79.168/2020/10/02/sample-post3/</link>
-      <pubDate>Fri, 02 Oct 2020 10:40:03 +0000</pubDate>
-      
-      <guid>http://54.65.79.168/2020/10/02/sample-post3/</guid>
-      <description>sample text sample text.</description>
-    </item>
-    
-    <item>
-      <title>Sample Blog 2</title>
-      <link>http://54.65.79.168/2020/10/02/sample-post2/</link>
-      <pubDate>Fri, 02 Oct 2020 10:40:02 +0000</pubDate>
-      
-      <guid>http://54.65.79.168/2020/10/02/sample-post2/</guid>
-      <description>sample text sample text.</description>
-    </item>
-    
-    <item>
-      <title>Blog A</title>
-      <link>http://54.65.79.168/2020/10/02/sample-post1/</link>
-      <pubDate>Fri, 02 Oct 2020 10:40:01 +0000</pubDate>
-      
-      <guid>http://54.65.79.168/2020/10/02/sample-post1/</guid>
-      <description>AAAAAAA</description>
-    </item>
-    
-    <item>
-      <title>Hello world!</title>
-      <link>http://54.65.79.168/2020/10/02/hello-world/</link>
-      <pubDate>Fri, 02 Oct 2020 10:37:18 +0000</pubDate>
-      
-      <guid>http://54.65.79.168/2020/10/02/hello-world/</guid>
-      <description>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</description>
-    </item>
-    
-    <item>
-      <title>Sample Page</title>
-      <link>http://54.65.79.168/sample-page/</link>
-      <pubDate>Fri, 02 Oct 2020 10:37:18 +0000</pubDate>
-      
-      <guid>http://54.65.79.168/sample-page/</guid>
-      <description>This is an example page. It&amp;#8217;s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
- Hi there! I&amp;#8217;m a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like piña coladas.</description>
-    </item>
     
   </channel>
 </rss>
