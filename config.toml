@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "/"
 languageCode = "en-us"
-title = "D"
+title = "wtb-netlify-Hugo-simple-ex"
 theme = "ananke"
