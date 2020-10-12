@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Category1 on My New Hugo Site</title>
+    <link>http://example.org/categories/category1/</link>
+    <description>Recent content in Category1 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Oct 2020 10:40:04 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/categories/category1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sample Blog 4</title>
+      <link>http://example.org/2020/10/02/sample-post4/</link>
+      <pubDate>Fri, 02 Oct 2020 10:40:04 +0000</pubDate>
+      
+      <guid>http://example.org/2020/10/02/sample-post4/</guid>
+      <description>sample text sample text.</description>
+    </item>
+    
+    <item>
+      <title>Sample Blog 3</title>
+      <link>http://example.org/2020/10/02/sample-post3/</link>
+      <pubDate>Fri, 02 Oct 2020 10:40:03 +0000</pubDate>
+      
+      <guid>http://example.org/2020/10/02/sample-post3/</guid>
+      <description>sample text sample text.</description>
+    </item>
+    
+    <item>
+      <title>Sample Blog 2</title>
+      <link>http://example.org/2020/10/02/sample-post2/</link>
+      <pubDate>Fri, 02 Oct 2020 10:40:02 +0000</pubDate>
+      
+      <guid>http://example.org/2020/10/02/sample-post2/</guid>
+      <description>sample text sample text.</description>
+    </item>
+    
+    <item>
+      <title>Blog A</title>
+      <link>http://example.org/2020/10/02/sample-post1/</link>
+      <pubDate>Fri, 02 Oct 2020 10:40:01 +0000</pubDate>
+      
+      <guid>http://example.org/2020/10/02/sample-post1/</guid>
+      <description>AAAAAAA</description>
+    </item>
+    
+  </channel>
+</rss>

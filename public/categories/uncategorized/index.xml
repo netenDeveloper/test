@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uncategorized on My New Hugo Site</title>
+    <link>http://example.org/categories/uncategorized/</link>
+    <description>Recent content in Uncategorized on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Oct 2020 10:37:18 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello world!</title>
+      <link>http://example.org/2020/10/02/hello-world/</link>
+      <pubDate>Fri, 02 Oct 2020 10:37:18 +0000</pubDate>
+      
+      <guid>http://example.org/2020/10/02/hello-world/</guid>
+      <description>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</description>
+    </item>
+    
+  </channel>
+</rss>

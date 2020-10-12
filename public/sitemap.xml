@@ -3,31 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/first/</loc>
-    <lastmod>2020-10-08T07:31:13+00:00</lastmod>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2020-10-02T10:40:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-10-08T07:31:13+00:00</lastmod>
+    <loc>http://example.org/categories/category1/</loc>
+    <lastmod>2020-10-02T10:40:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-10-08T07:31:13+00:00</lastmod>
+    <loc>http://example.org/categories/category2/</loc>
+    <lastmod>2020-10-02T10:40:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
-    <lastmod>2020-10-08T07:26:42+00:00</lastmod>
+    <loc>http://example.org/categories/category3/</loc>
+    <lastmod>2020-10-02T10:40:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-10-02T10:40:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2020-10-02T10:40:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2020/10/02/sample-post4/</loc>
+    <lastmod>2020-10-02T10:40:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2020/10/02/sample-post3/</loc>
+    <lastmod>2020-10-02T10:40:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2020/10/02/sample-post2/</loc>
+    <lastmod>2020-10-02T10:40:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2020/10/02/sample-post1/</loc>
+    <lastmod>2020-10-02T10:40:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2020/10/02/hello-world/</loc>
+    <lastmod>2020-10-02T10:37:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sample-page/</loc>
+    <lastmod>2020-10-02T10:37:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/uncategorized/</loc>
+    <lastmod>2020-10-02T10:37:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
   </url>
   
 </urlset>
