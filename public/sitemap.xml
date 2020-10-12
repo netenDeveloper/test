@@ -3,72 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://54.65.79.168/categories/</loc>
     <lastmod>2020-10-02T10:40:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/category1/</loc>
+    <loc>http://54.65.79.168/categories/category1/</loc>
     <lastmod>2020-10-02T10:40:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/category2/</loc>
+    <loc>http://54.65.79.168/categories/category2/</loc>
     <lastmod>2020-10-02T10:40:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/category3/</loc>
+    <loc>http://54.65.79.168/categories/category3/</loc>
     <lastmod>2020-10-02T10:40:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://54.65.79.168/</loc>
     <lastmod>2020-10-02T10:40:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://54.65.79.168/posts/</loc>
     <lastmod>2020-10-02T10:40:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/2020/10/02/sample-post4/</loc>
+    <loc>http://54.65.79.168/2020/10/02/sample-post4/</loc>
     <lastmod>2020-10-02T10:40:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/2020/10/02/sample-post3/</loc>
+    <loc>http://54.65.79.168/2020/10/02/sample-post3/</loc>
     <lastmod>2020-10-02T10:40:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/2020/10/02/sample-post2/</loc>
+    <loc>http://54.65.79.168/2020/10/02/sample-post2/</loc>
     <lastmod>2020-10-02T10:40:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/2020/10/02/sample-post1/</loc>
+    <loc>http://54.65.79.168/2020/10/02/sample-post1/</loc>
     <lastmod>2020-10-02T10:40:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/2020/10/02/hello-world/</loc>
+    <loc>http://54.65.79.168/2020/10/02/hello-world/</loc>
     <lastmod>2020-10-02T10:37:18+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/sample-page/</loc>
+    <loc>http://54.65.79.168/sample-page/</loc>
     <lastmod>2020-10-02T10:37:18+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/uncategorized/</loc>
+    <loc>http://54.65.79.168/categories/uncategorized/</loc>
     <lastmod>2020-10-02T10:37:18+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://54.65.79.168/tags/</loc>
   </url>
   
 </urlset>
