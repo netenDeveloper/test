@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strata</title>
+    <link>/</link>
+    <description>Recent content on Strata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Oct 2020 07:31:13 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>/post/first/</link>
+      <pubDate>Thu, 08 Oct 2020 07:31:13 +0000</pubDate>
+      
+      <guid>/post/first/</guid>
+      <description>this is my first hugo post.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 08 Oct 2020 07:26:42 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hollow Hugo.</description>
+    </item>
+    
+  </channel>
+</rss>
